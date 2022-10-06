@@ -7,6 +7,10 @@ The log of my #100DaysOfCode challenge. Started on [5th October 2022].
 ### R1D1 
 Started with a Telegram Bot. Figured out how to communicate with the bot and response to bot command.
 ### R1D2
+played with the telegram bot api
+- created template commands
+- try to connect to a weather api
+
 ### R1D3
 ### R1D4
 ### R1D5
