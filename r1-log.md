@@ -12,9 +12,30 @@ played with the telegram bot api
 - try to connect to a weather api
 
 ### R1D3
+played with the telegram bot api
+- read something about nft api.thegraph and GrapQL but don't know how to handle it
+- tried to apply to the weather api but to complex DTOs
+- learn something about the WebClient for spring boot.
+- use the activity api in the telegram bot for random activities
+
+### R1D3
+played with the telegram bot api
+- read something about nft api.thegraph and GrapQL but don't know how to handle it
+- tried to apply to the weather api but to complex DTOs
+- learn something about the WebClient for spring boot.
+- use the activity api in the telegram bot for random activities
+
 ### R1D4
+major refactoring of telegram bot
 ### R1D5
+Forgot to twitter about my progress yesterday.
+
+Day5 #100daysofcode 
+I started with a huge redesign of my telegram bot.
+
+I am tense how the design decisions impact when refactoring the code step by step.
 ### R1D6
+Continued implementing new design, nothing special today
 ### R1D7
 ### R1D8
 ### R1D9
