@@ -41,6 +41,10 @@ Continued implementing new design part2.
 tried to realize the tips from 'the pragmatic programmer' about the fact that code should be easy to change
 
 ### R1D8
+Started using TDD approach to get the view from the consumer perspective. It helps me to find out:
+
+Getting faster feedback about design decisions -> increate confidence
+Helps me to write testable code
 ### R1D9
 ### R1D10
 ### R1D11
