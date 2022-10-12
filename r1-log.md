@@ -37,6 +37,9 @@ I am tense how the design decisions impact when refactoring the code step by ste
 ### R1D6
 Continued implementing new design, nothing special today
 ### R1D7
+Continued implementing new design part2.
+tried to realize the tips from 'the pragmatic programmer' about the fact that code should be easy to change
+
 ### R1D8
 ### R1D9
 ### R1D10
