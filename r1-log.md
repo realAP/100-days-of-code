@@ -46,6 +46,12 @@ Started using TDD approach to get the view from the consumer perspective. It hel
 Getting faster feedback about design decisions -> increate confidence
 Helps me to write testable code
 ### R1D9
+Using TDD to challange me about thinking "what is the output of some services to test against." and then flow into some design ideas which are verified through testing.
+Don't work on assumptions, try to test against it.
+
+Starting a Service with identifies the kind of telegram message and command with will used to build a Object which will go into the Business Layer
+
+
 ### R1D10
 ### R1D11
 ### R1D12
